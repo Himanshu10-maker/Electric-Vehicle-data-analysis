@@ -14,3 +14,12 @@ Determine the average electric range of the electric vehicles in the dataset to 
 Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
 
 Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
+
+ Technical Highlights:
+
+Data Integration and Transformation: Leveraged Tableau's data blending and preparation tools to integrate multiple data sources and perform data cleaning, ensuring a seamless and accurate analysis process.
+
+Advanced Calculations: Utilized Tableau's powerful calculation functions to create advanced metrics and KPIs, enabling sophisticated data analysis and insightful performance tracking.
+
+Interactive Dashboards: Designed and developed interactive dashboards with user-friendly interfaces, incorporating slicers, filters, and drill-down capabilities to allow users to explore data in depth.
+
